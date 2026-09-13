@@ -1,0 +1,2822 @@
+[
+  {
+    "file": "SPEC.md",
+    "dependencies": [
+      "the"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "HERMES_SETUP.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "SKILL-original.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CLAUDE.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".clawhubignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "TASKS.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CONTRIBUTORS.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "CHANGELOG.md",
+    "dependencies": [
+      "crash"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "AGENTS.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "uv.lock",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitattributes",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "test-run.log",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "pyproject.toml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "README.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "gemini-extension.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".gitignore",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "release-notes.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/search-quality-eval.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/v2.5-launch-tweets.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/v2.1-launch-copy.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/pr-credits.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/how-search-works.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-20260206-231338/v1-SKILL.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-20260206-231338/v1/1-prompting-techniques-for-chatgpt-for-legal-questio.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-20260206-231338/v1/1-prompting-techniques-for-chatgpt-for-legal-questio.stderr.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-quick/v2-SKILL.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-quick/v1-SKILL.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-quick/analysis.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-quick/v1/4-nano-banana-pro-prompting.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-quick/v1/1-kanye-west.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-quick/v1/3-open-claw.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-quick/v1/5-how-to-best-setup-clawdbot.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/test-results/v1-vs-v2-quick/v2/1-kanye-west.txt",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/plans/2026-04-22-003-fix-competitors-per-entity-resolution-plan.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/plans/2026-04-22-004-fix-competitors-hosting-model-resolve-and-leak-plan.md.superseded",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/plans/2026-04-22-002-feat-competitors-flag-comparison-fanout-plan.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/plans/2026-04-22-006-fix-comparison-title-skill-attribution-plan.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/plans/2026-04-22-005-feat-vs-mode-n-passes-competitors-auto-discovery-plan.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "docs/releases/v3.0.9.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "hooks/hooks.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "hooks/scripts/check-config.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".codex-plugin/plugin.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "commands/last30days.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "fixtures/eval_topics.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "fixtures/models_xai_sample.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "fixtures/openai_sample.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "fixtures/tiktok_search.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "fixtures/xai_sample.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "fixtures/models_openai_sample.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "fixtures/reddit_thread_sample.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/SKILL.md",
+    "dependencies": [
+      "sys"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/agents/openai.yaml",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/last30days.py",
+    "dependencies": [
+      "sys",
+      "signal",
+      "store",
+      "json",
+      "threading",
+      "lib",
+      "__future__",
+      "os",
+      "atexit",
+      "quality_nudge",
+      "resolve",
+      "datetime",
+      "planner",
+      "competitors",
+      "Path",
+      "argparse",
+      "re",
+      "env",
+      "setup_wizard",
+      "preflight",
+      "pathlib",
+      "annotations",
+      "fanout"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/briefing.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "store",
+      "json",
+      "argparse",
+      "datetime",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/build-skill.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/watchlist.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "store",
+      "json",
+      "argparse",
+      "time",
+      "subprocess",
+      "__future__",
+      "schema",
+      "lib",
+      "pathlib",
+      "annotations",
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/test-v1-vs-v2.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/evaluate_search_quality.py",
+    "dependencies": [
+      "sys",
+      "tempfile",
+      "json",
+      "subprocess",
+      "schema",
+      "math",
+      "typing",
+      "__future__",
+      "os",
+      "HTTPError",
+      "Request",
+      "datetime",
+      "Any",
+      "Path",
+      "argparse",
+      "env",
+      "urllib.error",
+      "urllib.request",
+      "lib",
+      "pathlib",
+      "annotations"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/compare.sh",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/sync.sh",
+    "dependencies": [
+      "lib",
+      "briefing",
+      "youtube_yt"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/test_device_auth.py",
+    "dependencies": [
+      "sys",
+      "urllib.error",
+      "HTTPError",
+      "json",
+      "time",
+      "Request",
+      "urllib.request",
+      "webbrowser"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/verify_v3.py",
+    "dependencies": [
+      "sys",
+      "statistics",
+      "os",
+      "Path",
+      "json",
+      "argparse",
+      "time",
+      "subprocess",
+      "pathlib",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/store.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "json",
+      "argparse",
+      "lib",
+      "datetime",
+      "schema",
+      "sqlite3",
+      "pathlib",
+      "Any",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/hackernews.py",
+    "dependencies": [
+      "sys",
+      "concurrent.futures",
+      ".query",
+      ".relevance",
+      "time",
+      "re",
+      "urllib.parse",
+      "extract_core_subject",
+      "html",
+      "token_overlap_relevance",
+      "typing",
+      ".",
+      "datetime",
+      "http",
+      "math",
+      "Any",
+      "urlencode",
+      "ThreadPoolExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/github.py",
+    "dependencies": [
+      "sys",
+      "dates",
+      "json",
+      "concurrent.futures",
+      ".relevance",
+      "subprocess",
+      "token_overlap_relevance",
+      "math",
+      "typing",
+      "ThreadPoolExecutor",
+      "os",
+      "Any",
+      "urllib.parse",
+      "re",
+      "extract_core_subject",
+      "urllib.error",
+      ".query",
+      "urllib.request",
+      "."
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/fanout.py",
+    "dependencies": [
+      "sys",
+      "concurrent.futures",
+      "Callable",
+      ".",
+      "schema",
+      "annotations",
+      "typing",
+      "__future__",
+      "ThreadPoolExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/reddit.py",
+    "dependencies": [
+      "sys",
+      "dates",
+      "concurrent.futures",
+      ".query",
+      ".relevance",
+      "time",
+      "re",
+      "extract_core_subject",
+      "token_overlap_relevance",
+      ".",
+      "Counter",
+      "Any",
+      "typing",
+      "collections",
+      "ThreadPoolExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/relevance.py",
+    "dependencies": [
+      "typing",
+      "re",
+      "List"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/rerank.py",
+    "dependencies": [
+      "sys",
+      "json",
+      "re",
+      ".",
+      "http",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/quality_nudge.py",
+    "dependencies": [
+      "typing",
+      "List",
+      ".",
+      "youtube_yt"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/dedupe.py",
+    "dependencies": [
+      "re",
+      ".",
+      "schema",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/xurl_x.py",
+    "dependencies": [
+      "sys",
+      "json",
+      ".relevance",
+      "re",
+      "subprocess",
+      "token_overlap_relevance",
+      "Any",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/planner.py",
+    "dependencies": [
+      "sys",
+      "json",
+      "re",
+      ".",
+      "http",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/snippet.py",
+    "dependencies": [
+      "relevance",
+      "annotations",
+      "__future__",
+      "."
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/reddit_enrich.py",
+    "dependencies": [
+      "reddit",
+      "re",
+      "urllib.parse",
+      ".",
+      "http",
+      "urlparse",
+      "Any",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/signals.py",
+    "dependencies": [
+      "math",
+      "dates",
+      ".",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/tiktok.py",
+    "dependencies": [
+      "sys",
+      "dates",
+      "concurrent.futures",
+      ".relevance",
+      ".query",
+      "re",
+      "urllib.parse",
+      "extract_core_subject",
+      "token_overlap_relevance",
+      ".",
+      "typing",
+      "Any",
+      "urlencode",
+      "requests",
+      "ThreadPoolExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/query.py",
+    "dependencies": [
+      "re",
+      "typing",
+      "FrozenSet"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/perplexity.py",
+    "dependencies": [
+      "sys",
+      ".",
+      "http",
+      "urlparse",
+      "annotations",
+      "urllib.parse",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/chrome_cookies.py",
+    "dependencies": [
+      "os",
+      "Path",
+      "tempfile",
+      "hashlib",
+      "subprocess",
+      "logging",
+      "shutil",
+      "Optional",
+      "sqlite3",
+      "pathlib",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/schema.py",
+    "dependencies": [
+      "dataclasses",
+      "annotations",
+      "Any",
+      "typing",
+      "__future__",
+      "asdict"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/cookie_extract.py",
+    "dependencies": [
+      "platform",
+      "functools",
+      "tempfile",
+      "Path",
+      "os",
+      "extract_chrome_cookies_macos",
+      ".safari_cookies",
+      "extract_safari_cookies_macos",
+      "logging",
+      "shutil",
+      "configparser",
+      "sqlite3",
+      "pathlib",
+      ".chrome_cookies",
+      "typing",
+      "Dict"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/subproc.py",
+    "dependencies": [
+      "os",
+      "signal",
+      "dataclasses",
+      "dataclass",
+      "subprocess",
+      "Optional",
+      "annotations",
+      "typing",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/http.py",
+    "dependencies": [
+      "sys",
+      "urllib.error",
+      "log",
+      "json",
+      "time",
+      "re",
+      "urllib.request",
+      "urllib.parse",
+      ".",
+      "typing",
+      "Any",
+      "urlencode"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/bird_x.py",
+    "dependencies": [
+      "sys",
+      "concurrent.futures",
+      "json",
+      ".relevance",
+      "extract_compound_terms",
+      "register_child_pid",
+      "last30days",
+      "token_overlap_relevance",
+      "typing",
+      "ThreadPoolExecutor",
+      "os",
+      "datetime",
+      "http",
+      "Any",
+      "Path",
+      "extract_core_subject",
+      "unregister_child_pid",
+      ".query",
+      ".",
+      "shutil",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/instagram.py",
+    "dependencies": [
+      "sys",
+      "dates",
+      ".relevance",
+      ".query",
+      "re",
+      "urllib.parse",
+      "extract_core_subject",
+      "token_overlap_relevance",
+      ".",
+      "datetime",
+      "typing",
+      "Any",
+      "urlencode",
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/log.py",
+    "dependencies": [
+      "sys",
+      "os"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/categories.py",
+    "dependencies": [
+      "annotations",
+      "List",
+      "typing",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/fusion.py",
+    "dependencies": [
+      "parse_qs",
+      ".",
+      "schema",
+      "annotations",
+      "urllib.parse",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/xquik.py",
+    "dependencies": [
+      ".relevance",
+      "extract_compound_terms",
+      ".query",
+      "urllib.parse",
+      "extract_core_subject",
+      "token_overlap_relevance",
+      ".",
+      "datetime",
+      "quote",
+      "http",
+      "annotations",
+      "Any",
+      "typing",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/polymarket.py",
+    "dependencies": [
+      "sys",
+      "concurrent.futures",
+      "json",
+      ".relevance",
+      "re",
+      "quote_plus",
+      "urllib.parse",
+      "LOW_SIGNAL_QUERY_TOKENS",
+      ".",
+      "http",
+      "math",
+      "Any",
+      "typing",
+      "ThreadPoolExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/threads.py",
+    "dependencies": [
+      "dates",
+      ".relevance",
+      ".query",
+      "re",
+      "urllib.parse",
+      "extract_core_subject",
+      "typing",
+      "token_overlap_relevance",
+      ".",
+      "math",
+      "Any",
+      "urlencode",
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/env.py",
+    "dependencies": [
+      "sys",
+      "json",
+      "bird_x",
+      "typing",
+      "cookie_extract",
+      "__future__",
+      "binascii",
+      "os",
+      "dataclass",
+      "time",
+      "youtube_yt",
+      "http",
+      "Any",
+      "Path",
+      "dataclasses",
+      ".",
+      "xurl_x",
+      "pathlib",
+      "annotations",
+      "base64"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/bluesky.py",
+    "dependencies": [
+      "sys",
+      ".query",
+      "time",
+      "re",
+      "urllib.parse",
+      "extract_core_subject",
+      "typing",
+      ".",
+      "datetime",
+      "http",
+      "math",
+      "Any",
+      "urlencode"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/safari_cookies.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "struct",
+      "pathlib",
+      "annotations",
+      "__future__",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/providers.py",
+    "dependencies": [
+      "sys",
+      "json",
+      "re",
+      ".",
+      "env",
+      "annotations",
+      "Any",
+      "typing",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/render.py",
+    "dependencies": [
+      "dates",
+      "json",
+      "date",
+      "re",
+      ".",
+      "datetime",
+      "Counter",
+      "urlparse",
+      "pathlib",
+      "annotations",
+      "urllib.parse",
+      "collections",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/dates.py",
+    "dependencies": [
+      "datetime",
+      "Optional",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/setup_wizard.py",
+    "dependencies": [
+      "sys",
+      "json",
+      "subprocess",
+      ".env",
+      "typing",
+      "cookie_extract",
+      "HTTPError",
+      "time",
+      "Request",
+      "webbrowser",
+      "Any",
+      "Path",
+      "urllib.error",
+      "COOKIE_DOMAINS",
+      "urllib.request",
+      ".",
+      "logging",
+      "shutil",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/cluster.py",
+    "dependencies": [
+      "dedupe",
+      "re",
+      ".",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/reddit_public.py",
+    "dependencies": [
+      "sys",
+      "urllib.error",
+      "concurrent.futures",
+      "json",
+      "time",
+      "urllib.request",
+      "reddit_enrich",
+      ".",
+      "Any",
+      "datetime",
+      "urllib.parse",
+      "typing",
+      "ThreadPoolExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/grounding.py",
+    "dependencies": [
+      "dates",
+      ".",
+      "datetime",
+      "urlparse",
+      "annotations",
+      "urllib.parse",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/preflight.py",
+    "dependencies": [
+      "annotations",
+      "re",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/pipeline.py",
+    "dependencies": [
+      "sys",
+      "concurrent.futures",
+      "which",
+      "threading",
+      "time",
+      ".fusion",
+      "weighted_rrf",
+      ".",
+      ".cluster",
+      "datetime",
+      "cluster_candidates",
+      "shutil",
+      "annotations",
+      "Any",
+      "typing",
+      "__future__",
+      "ThreadPoolExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/pinterest.py",
+    "dependencies": [
+      "sys",
+      "dates",
+      ".relevance",
+      ".query",
+      "re",
+      "urllib.parse",
+      "extract_core_subject",
+      "token_overlap_relevance",
+      ".",
+      "typing",
+      "Any",
+      "urlencode",
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/youtube_yt.py",
+    "dependencies": [
+      "sys",
+      "tempfile",
+      "concurrent.futures",
+      "json",
+      ".relevance",
+      "token_overlap_relevance",
+      "math",
+      "typing",
+      "ThreadPoolExecutor",
+      "http",
+      "Any",
+      "urllib.parse",
+      "Path",
+      "re",
+      "extract_core_subject",
+      "urlencode",
+      "urllib.error",
+      ".query",
+      "urllib.request",
+      ".",
+      "shutil",
+      "pathlib",
+      "requests"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/resolve.py",
+    "dependencies": [
+      "sys",
+      "categories",
+      "concurrent.futures",
+      "re",
+      ".",
+      "datetime",
+      "Optional",
+      "annotations",
+      "typing",
+      "__future__",
+      "ThreadPoolExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/entity_extract.py",
+    "dependencies": [
+      "re",
+      "Counter",
+      "Any",
+      "typing",
+      "collections"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/xiaohongshu_api.py",
+    "dependencies": [
+      ".",
+      "datetime",
+      "http",
+      "Any",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/ui.py",
+    "dependencies": [
+      "sys",
+      "threading",
+      "time",
+      "random",
+      "Optional",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/html_render.py",
+    "dependencies": [
+      "date",
+      "re",
+      "render",
+      "html",
+      ".",
+      "datetime",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/xai_x.py",
+    "dependencies": [
+      "sys",
+      "json",
+      "re",
+      ".",
+      "http",
+      "Any",
+      "typing"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/truthsocial.py",
+    "dependencies": [
+      "sys",
+      ".query",
+      "re",
+      "urllib.parse",
+      "extract_core_subject",
+      "typing",
+      ".",
+      "http",
+      "math",
+      "Any",
+      "urlencode"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/normalize.py",
+    "dependencies": [
+      "dates",
+      "urllib.parse",
+      ".",
+      "urlparse",
+      "annotations",
+      "Any",
+      "typing",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/competitors.py",
+    "dependencies": [
+      "sys",
+      ".resolve",
+      "dates",
+      "concurrent.futures",
+      "re",
+      ".",
+      "Counter",
+      "_has_backend",
+      "annotations",
+      "collections",
+      "__future__",
+      "ThreadPoolExecutor"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/bird-search.mjs",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/package.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/LICENSE",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/twitter-client-base.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/twitter-client-utils.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/twitter-client-search.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/twitter-client-features.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/runtime-features.js",
+    "dependencies": [
+      "doesn",
+      "defaultOverrides",
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/twitter-client-types.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/paginate-cursor.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/runtime-query-ids.js",
+    "dependencies": [
+      "path"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/query-ids.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/features.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/twitter-client-constants.js",
+    "dependencies": [
+      "doesn",
+      "queryIds"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/scripts/lib/vendor/bird-search/lib/cookies.js",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "skills/last30days/references/save-html-brief.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_planner_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "contextlib",
+      "planner",
+      "lib",
+      "pathlib",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_youtube_relevance.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "token_overlap_relevance",
+      "lib.relevance",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_query.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "lib.query",
+      "NOISE_WORDS",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_http_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "urllib.error",
+      "patch",
+      "unittest.mock",
+      "http",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_xai_x.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "json",
+      "parse_x_response",
+      "pathlib",
+      "lib.xai_x",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_category_integration.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "patch",
+      "unittest.mock",
+      "lib",
+      "contextlib",
+      "resolve",
+      "redirect_stderr",
+      "pathlib",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_cli_v3.py",
+    "dependencies": [
+      "sys",
+      "types",
+      "Path",
+      "tempfile",
+      "json",
+      "subprocess",
+      "mock",
+      "last30days",
+      "lib",
+      "contextlib",
+      "schema",
+      "redirect_stderr",
+      "pathlib",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_render_comparison_multi.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "json",
+      "last30days",
+      "render",
+      "__future__",
+      "lib",
+      "pathlib",
+      "annotations",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/__init__.py",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_store.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "tempfile",
+      "store",
+      "json",
+      "lib",
+      "pytest",
+      "datetime",
+      "schema",
+      "sqlite3",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_reddit_sc.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "reddit",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_dates.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "dates",
+      "datetime",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_providers_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "json",
+      "providers",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_cli_competitors.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "last30days",
+      "contextlib",
+      "__future__",
+      "redirect_stderr",
+      "pathlib",
+      "annotations",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/e2e_comparison.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "json",
+      "time",
+      "subprocess",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_schema_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "schema",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_plugin_contract.py",
+    "dependencies": [
+      "Path",
+      "json",
+      "re",
+      "tomllib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_preflight.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "lib",
+      "preflight",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_env_cookies.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "Path",
+      "patch",
+      "get_config",
+      "unittest.mock",
+      "extract_browser_credentials",
+      "lib.env",
+      "pytest",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_reddit_enrich.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "json",
+      "reddit_enrich",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_resolve.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "patch",
+      "MAX_SUBS",
+      "unittest.mock",
+      "lib",
+      "contextlib",
+      "resolve",
+      "lib.resolve",
+      "redirect_stderr",
+      "pathlib",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_fusion_v3.py",
+    "dependencies": [
+      "sys",
+      "_normalize_url",
+      "Path",
+      "fusion",
+      "lib.fusion",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_cookie_extract.py",
+    "dependencies": [
+      "sys",
+      "scripts.lib.cookie_extract",
+      "Path",
+      "patch",
+      "unittest.mock",
+      "textwrap",
+      "pytest",
+      "configparser",
+      "sqlite3",
+      "pathlib",
+      "typing",
+      "Dict"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_query_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "query",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_reddit.py",
+    "dependencies": [
+      "sys",
+      "lib.reddit",
+      "Path",
+      "patch",
+      "unittest.mock",
+      "time",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_pipeline_v3.py",
+    "dependencies": [
+      "sys",
+      "pathlib",
+      "Path",
+      "patch",
+      "unittest.mock",
+      "threading",
+      "last30days",
+      "inspect",
+      "contextlib",
+      "lib",
+      "entity_extract",
+      "http",
+      "pipeline",
+      "schema",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_setup_openclaw.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "patch",
+      "HTTPError",
+      "json",
+      "unittest.mock",
+      "urllib.error",
+      "time",
+      "lib",
+      "pytest",
+      "URLError",
+      "setup_wizard",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_footer_nudge_suppression.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "Path",
+      "subprocess",
+      "__future__",
+      "pathlib",
+      "annotations",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_github.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "patch",
+      "json",
+      "unittest.mock",
+      "lib",
+      "pathlib",
+      "unittest",
+      "github"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_env_v3.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "Path",
+      "mock",
+      "bird_x",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_dates_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "dates",
+      "datetime",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_version_consistency.py",
+    "dependencies": [
+      "pathlib",
+      "Path",
+      "re",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_watchlist_delivery.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "unittest.mock",
+      "pytest",
+      "Mock",
+      "pathlib",
+      "watchlist"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_bluesky.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "patch",
+      "HTTPError",
+      "unittest.mock",
+      "lib.http",
+      "bluesky",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_truthsocial.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "patch",
+      "HTTPError",
+      "unittest.mock",
+      "lib.http",
+      "lib",
+      "pathlib",
+      "truthsocial",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_snippet_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "schema",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_polymarket_disambiguation.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "polymarket",
+      "__future__",
+      "lib",
+      "pathlib",
+      "annotations",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_tiktok.py",
+    "dependencies": [
+      "sys",
+      "_parse_items",
+      "Path",
+      "patch",
+      "unittest.mock",
+      "lib.tiktok",
+      "expand_tiktok_queries",
+      "env",
+      "lib",
+      "pathlib",
+      "tiktok",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_competitor_subrun_isolation.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "mock",
+      "lib",
+      "contextlib",
+      "resolve",
+      "__future__",
+      "pipeline",
+      "redirect_stderr",
+      "pathlib",
+      "annotations",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_internals_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "date",
+      "providers",
+      "datetime",
+      "planner",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_rerank_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "lib",
+      "pathlib",
+      "rerank",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_instagram_sc.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "tokenize",
+      "lib.relevance",
+      "instagram",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_subproc.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "patch",
+      "unittest.mock",
+      "subproc",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_quality_nudge.py",
+    "dependencies": [
+      "scripts.lib.quality_nudge",
+      "patch",
+      "compute_quality_score",
+      "unittest.mock",
+      "youtube_yt",
+      "pytest",
+      "scripts.lib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_adversarial_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "planner",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_categories.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "categories",
+      "CATEGORY_PEERS",
+      "re",
+      "lib.categories",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_verify_v3.py",
+    "dependencies": [
+      "pathlib",
+      "importlib.util",
+      "Path",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_save_raw_per_entity.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "Path",
+      "tempfile",
+      "subprocess",
+      "__future__",
+      "pathlib",
+      "annotations",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_instagram.py",
+    "dependencies": [
+      "sys",
+      "_parse_items",
+      "Path",
+      "expand_instagram_queries",
+      "lib.instagram",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_relevance_core_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "relevance",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_regression.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "json",
+      "subprocess",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_competitors_resolve_integration.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "argparse",
+      "mock",
+      "lib",
+      "contextlib",
+      "resolve",
+      "__future__",
+      "pipeline",
+      "redirect_stderr",
+      "pathlib",
+      "annotations",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_vs_mode_fanout.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "lib",
+      "contextlib",
+      "planner",
+      "__future__",
+      "redirect_stderr",
+      "pathlib",
+      "annotations",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_watchlist_commands.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "tempfile",
+      "store",
+      "json",
+      "unittest.mock",
+      "subprocess",
+      "lib",
+      "pytest",
+      "Mock",
+      "schema",
+      "sqlite3",
+      "pathlib",
+      "watchlist"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_competitor_fanout.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "threading",
+      "time",
+      "mock",
+      "lib",
+      "contextlib",
+      "__future__",
+      "fanout",
+      "redirect_stderr",
+      "pathlib",
+      "annotations",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_polymarket.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "HTTPError",
+      "json",
+      "unittest.mock",
+      "polymarket",
+      "lib.http",
+      "pytest",
+      "Mock",
+      "lib",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_planner_quiet_mode.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "lib",
+      "contextlib",
+      "planner",
+      "__future__",
+      "redirect_stderr",
+      "pathlib",
+      "annotations",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_cluster_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "lib",
+      "pathlib",
+      "cluster",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_rerank_fun.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "pytest",
+      "schema",
+      "lib",
+      "pathlib",
+      "_apply_single_fun_fallback",
+      "lib.rerank"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_safari_cookies.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "Path",
+      "patch",
+      "struct",
+      "unittest.mock",
+      "scripts.lib.safari_cookies",
+      "pytest",
+      "pathlib",
+      "annotations",
+      "__future__"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_env_include_sources_default.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "scripts.lib",
+      "env",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_chrome_cookies.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "Path",
+      "tempfile",
+      "hashlib",
+      "subprocess",
+      "mock",
+      "scripts.lib.chrome_cookies",
+      "pytest",
+      "sqlite3",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_normalize_v3.py",
+    "dependencies": [
+      "sys",
+      "normalize",
+      "Path",
+      "signals",
+      "lib",
+      "pathlib",
+      "math",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_grounding_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "patch",
+      "unittest.mock",
+      "grounding",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_dedupe_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "dedupe",
+      "lib.schema",
+      "lib",
+      "pathlib",
+      "SourceItem",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_render_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "render",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_bird_x.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "Path",
+      "json",
+      "lib.bird_x",
+      "subprocess",
+      "textwrap",
+      "shutil",
+      "pathlib",
+      "parse_bird_response",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_youtube_yt.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "urllib.error",
+      "tempfile",
+      "Path",
+      "json",
+      "SubprocResult",
+      "mock",
+      "youtube_yt",
+      "lib.subproc",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_signals_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "lib.hackernews",
+      "schema",
+      "lib",
+      "pathlib",
+      "math",
+      "unittest",
+      "parse_hackernews_response"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_xurl_x.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "json",
+      "mock",
+      "subprocess",
+      "lib",
+      "xurl_x",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_briefing_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "tempfile",
+      "briefing",
+      "store",
+      "mock",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_relevance.py",
+    "dependencies": [
+      "sys",
+      "STOPWORDS",
+      "Path",
+      "lib.relevance",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_setup_wizard.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "Path",
+      "tempfile",
+      "patch",
+      "unittest.mock",
+      "argparse",
+      "lib",
+      "pytest",
+      "setup_wizard",
+      "pathlib"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_entity_extract_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "entity_extract",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_html_render.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "tempfile",
+      "last30days",
+      "html_render",
+      "HTMLParser",
+      "__future__",
+      "html.parser",
+      "lib",
+      "pathlib",
+      "annotations",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_ui_v3.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "ui",
+      "mock",
+      "lib",
+      "contextlib",
+      "redirect_stderr",
+      "pathlib",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_evaluator_v3.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "Path",
+      "tempfile",
+      "json",
+      "evaluate_search_quality",
+      "mock",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_xquik.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "patch",
+      "unittest.mock",
+      "http",
+      "lib",
+      "pathlib",
+      "lib.xquik",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_hackernews.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "HTTPError",
+      "json",
+      "unittest.mock",
+      "lib.http",
+      "pytest",
+      "datetime",
+      "Mock",
+      "lib",
+      "pathlib",
+      "hackernews"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_competitors_plan_threading.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "tempfile",
+      "json",
+      "mock",
+      "last30days",
+      "contextlib",
+      "__future__",
+      "redirect_stderr",
+      "pathlib",
+      "annotations",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_reddit_public.py",
+    "dependencies": [
+      "sys",
+      "os",
+      "urllib.error",
+      "json",
+      "mock",
+      "pytest",
+      "reddit_public",
+      "lib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_competitors.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "mock",
+      "lib",
+      "contextlib",
+      "__future__",
+      "competitors",
+      "redirect_stderr",
+      "pathlib",
+      "annotations",
+      "unittest",
+      "io"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/test_entity_extract.py",
+    "dependencies": [
+      "sys",
+      "Path",
+      "entity_extract",
+      "lib",
+      "pathlib",
+      "unittest"
+    ],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": "tests/fixtures/prompting-gpt-image-2-resolved-block.md",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".agents/plugins/marketplace.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".claude-plugin/plugin.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  },
+  {
+    "file": ".claude-plugin/marketplace.json",
+    "dependencies": [],
+    "llama_nemotron_8b_status": "failed",
+    "gemini_embedding_2_status": "failed"
+  }
+]
